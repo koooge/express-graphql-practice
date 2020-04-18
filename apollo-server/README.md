@@ -1,4 +1,4 @@
-# express-graphql-practice (express-graphql)
+# express-graphql-practice (apollo-server-express)
 GraphQL practice for Express
 
 ```sh
